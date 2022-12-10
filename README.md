@@ -39,7 +39,7 @@ The dataset roughly contains 10,000 randomly-named images:
 
 ##### No Mask dataset based on factors around a human facial image from variety of angles, shades, lighting, features, etc.
 
-![human_nonhuman](assets/readme_mask_nomask.png)
+![mask_nomask](assets/readme_mask_nomask.png)
 
 ---
 
@@ -50,3 +50,5 @@ The dataset roughly contains 10,000 randomly-named images:
 ##### Glasses dataset based on human faces with glasses, either artificially or naturally rendered on the image of the face
 
 ##### No Glasses dataset based on factors around a human facial image from variety of angles, shades, lighting, features, etc.
+
+![glasses_noglasses](assets/readme_glasses_noglasses.png)
