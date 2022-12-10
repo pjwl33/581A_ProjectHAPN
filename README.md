@@ -27,6 +27,8 @@ The dataset roughly contains 10,000 randomly-named images:
 - 2,000 food
 - 2,000 natural scenes (landscapes)
 
+![human_nonhuman](assets/readme_human_nonhuman.png)
+
 ---
 
 ### Training with Humans with Masks vs. No Mask Task
@@ -36,6 +38,8 @@ The dataset roughly contains 10,000 randomly-named images:
 ##### Mask dataset based on human faces with masks, either artificially or naturally rendered on the image of the face
 
 ##### No Mask dataset based on factors around a human facial image from variety of angles, shades, lighting, features, etc.
+
+![human_nonhuman](assets/readme_mask_nomask.png)
 
 ---
 
