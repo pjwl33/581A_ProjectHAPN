@@ -167,7 +167,7 @@ def train_keras_model(config={}):
                   loss=SparseCategoricalCrossentropy(from_logits=True),
                   metrics=['acc'])
 
-    history = model.fit_generator(
+    history = model.fit(
         train_ds,
         validation_data=val_ds,
         epochs=epochs
