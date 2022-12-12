@@ -52,3 +52,13 @@ The dataset roughly contains 10,000 randomly-named images:
 ##### No Glasses dataset based on factors around a human facial image from variety of angles, shades, lighting, features, etc.
 
 ![glasses_noglasses](assets/readme_glasses_noglasses.png)
+
+
+### Required Packages:
+
+- Pillow
+- opencv-python
+- tensorflow
+- numpy
+- matplotlib
+- pathlib
